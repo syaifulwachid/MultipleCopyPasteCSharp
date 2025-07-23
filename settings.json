@@ -1,0 +1,8 @@
+{
+  "StartWithWindows": false,
+  "MinimizeToTray": false,
+  "ShowNotifications": false,
+  "MaxItems": 500,
+  "CopyHotkey": "F1",
+  "PasteHotkey": "F2"
+}

@@ -1,0 +1,39 @@
+{
+  "version": 2,
+  "dgSpecHash": "XE6LFmgX8P8=",
+  "success": true,
+  "projectFilePath": "D:\\CPAS MULTIPLE F1 DAN F2\\MultipleCopyPasteCSharp\\MultipleCopyPaste.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VICTUS\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.118\\stub.system.data.sqlite.core.netstandard.1.0.118.nupkg.sha512",
+    "C:\\Users\\VICTUS\\.nuget\\packages\\system.data.sqlite.core\\1.0.118\\system.data.sqlite.core.1.0.118.nupkg.sha512",
+    "C:\\Users\\VICTUS\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\VICTUS\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\VICTUS\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'System.Text.Json' 8.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-8g4q-xg66-9fp4",
+      "projectPath": "D:\\CPAS MULTIPLE F1 DAN F2\\MultipleCopyPasteCSharp\\MultipleCopyPaste.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\CPAS MULTIPLE F1 DAN F2\\MultipleCopyPasteCSharp\\MultipleCopyPaste.csproj",
+      "libraryId": "System.Text.Json",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'System.Text.Json' 8.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-hh2w-p6rv-4g7w",
+      "projectPath": "D:\\CPAS MULTIPLE F1 DAN F2\\MultipleCopyPasteCSharp\\MultipleCopyPaste.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\CPAS MULTIPLE F1 DAN F2\\MultipleCopyPasteCSharp\\MultipleCopyPaste.csproj",
+      "libraryId": "System.Text.Json",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}
